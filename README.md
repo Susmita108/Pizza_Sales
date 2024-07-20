@@ -1,7 +1,7 @@
-**# Pizza_Sales**
+**# Pizza Sales Dashboard**
 
 **KPI's Requirement**\
 We Calculate the following Metrics:
 
-  **1.Total Revenue**- The Sum of the total price of all Pizzas.\
-  **2.Average Order Value**-
+  **1. Total Revenue**: The total amount of money generated from all pizza orders\
+  **2. Average Order Value:** 
